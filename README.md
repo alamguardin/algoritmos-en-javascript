@@ -1,1 +1,1 @@
-# Alritmos en JavaScript
+# Algoritmos en JavaScript
